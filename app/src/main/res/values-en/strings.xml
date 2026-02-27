@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">30 Days of Cooking</string>
+    <string name="day_label">Day %d</string>
+    <string name="tip_image_description">Tip illustration</string>
+
+    <!-- Day 1 -->
+    <string name="tip_title_1">Knife Sharpening</string>
+    <string name="tip_short_1">Learn to sharpen your kitchen knives for safe and comfortable cooking.</string>
+    <string name="tip_full_1">A sharp knife is a chef\'s most important tool. A dull knife is more dangerous than a sharp one because it requires more force and can slip. Use a honing steel before each use to realign the blade. Every few months, sharpen your knives on a whetstone: start with the coarse side, then move to the fine side. Hold the knife at a 15–20 degree angle and make even strokes on both sides.</string>
+
+    <!-- Day 2 -->
+    <string name="tip_title_2">Ingredient Preparation</string>
+    <string name="tip_short_2">Learn the mise en place principle — everything in its place before you start cooking.</string>
+    <string name="tip_full_2">Mise en place is a French term meaning "everything in its place." Before turning on the stove, prepare all your ingredients: wash, chop, and measure. Place them in separate bowls. This saves time during cooking, reduces the risk of mistakes, and makes the cooking process calm and organized. Professional chefs always follow this rule.</string>
+
+    <!-- Day 3 -->
+    <string name="tip_title_3">Temperature Control</string>
+    <string name="tip_short_3">Master heat management — the foundation of every cooking process.</string>
+    <string name="tip_full_3">Understanding temperature is key to successful cooking. High heat is for searing and creating crusts. Medium — for sautéing and frying. Low — for slow simmering. Always preheat the pan before adding oil, and oil before adding food. Use a cooking thermometer for meat: it helps determine exact doneness without cutting into the product.</string>
+
+    <!-- Day 4 -->
+    <string name="tip_title_4">Seasoning Basics</string>
+    <string name="tip_short_4">Salt, pepper, acid, and fat — the four pillars of flavor in cooking.</string>
+    <string name="tip_full_4">Good seasoning transforms an ordinary dish into a magnificent one. Salt enhances flavor — add it at different stages of cooking. Pepper adds heat and aroma. Acid (lemon, vinegar) balances richness. Fat (oil, butter) carries flavors. Taste your dish throughout cooking and adjust. Remember: it\'s better to add salt gradually — it\'s easier to oversalt than to fix it.</string>
+
+    <!-- Day 5 -->
+    <string name="tip_title_5">Making Stock</string>
+    <string name="tip_short_5">Homemade stock is the foundation of countless dishes and sauces.</string>
+    <string name="tip_full_5">Homemade stock surpasses store-bought in both flavor and nutrition. For chicken stock, take bones, onion, carrot, celery, bay leaf, and peppercorns. Cover with cold water, bring to a boil, skim the foam, and simmer on low heat for 2–3 hours. Don\'t let it boil vigorously — the stock will become cloudy. Strain and store in the fridge for up to 5 days or freeze.</string>
+
+    <!-- Day 6 -->
+    <string name="tip_title_6">Perfect Scrambled Eggs</string>
+    <string name="tip_short_6">The secret to creamy scrambled eggs is slow cooking and constant stirring.</string>
+    <string name="tip_full_6">For perfect scrambled eggs, beat eggs with a pinch of salt. Heat the pan over medium heat, add a knob of butter. Pour in the eggs and slowly stir with a spatula, gathering the mixture from edges to center. Remove from heat slightly before the eggs are fully set — residual heat will bring them to the perfect creamy consistency. Serve immediately.</string>
+
+    <!-- Day 7 -->
+    <string name="tip_title_7">Omelette Technique</string>
+    <string name="tip_short_7">The classic French omelette is a mark of a chef\'s skill.</string>
+    <string name="tip_full_7">Beat 3 eggs with a fork until smooth. Heat a non-stick pan over medium-high heat, add butter. When the butter foams, pour in the eggs. With circular fork motions, stir the center while tilting the pan to distribute liquid eggs. When the omelette is nearly set, add filling to one side, fold in half, and slide onto a plate. The whole process takes less than a minute.</string>
+
+    <!-- Day 8 -->
+    <string name="tip_title_8">Poached Eggs</string>
+    <string name="tip_short_8">Perfect poached eggs with a runny yolk — easier than you think.</string>
+    <string name="tip_full_8">Heat water to a gentle simmer (small bubbles). Add a tablespoon of vinegar. Crack a fresh egg into a small cup. Create a vortex in the water by stirring in a circle. Gently lower the egg into the center of the vortex. Cook for 3–4 minutes for a runny yolk. Remove with a slotted spoon and place on a paper towel. Fresh eggs give the best results — the white wraps more tightly around the yolk.</string>
+
+    <!-- Day 9 -->
+    <string name="tip_title_9">Crepes from Scratch</string>
+    <string name="tip_short_9">Make thin crepes from a classic recipe without lumps.</string>
+    <string name="tip_full_9">Mix 200g flour, 2 eggs, 500ml milk, a pinch of salt, and a tablespoon of vegetable oil. The batter should be thin, like liquid cream. Let it rest for 30 minutes. Heat the pan until very hot, lightly grease with oil. Pour a thin layer of batter, rotating the pan. Cook until golden on each side. The first crepe is often a failure — this is normal, the pan is still heating up.</string>
+
+    <!-- Day 10 -->
+    <string name="tip_title_10">Overnight Oats</string>
+    <string name="tip_short_10">A healthy no-cook breakfast — just mix in the evening and enjoy in the morning.</string>
+    <string name="tip_full_10">In a jar, mix 50g rolled oats, 100ml milk or yogurt, a spoon of honey, and a pinch of cinnamon. Add chia seeds for thickness. Refrigerate overnight (at least 6 hours). In the morning, add fresh berries, nuts, or fruit to taste. This is a great option for busy mornings — healthy, filling, and requires no cooking time.</string>
+
+    <!-- Day 11 -->
+    <string name="tip_title_11">Chicken Soup</string>
+    <string name="tip_short_11">Classic chicken soup — a warming dish for all occasions.</string>
+    <string name="tip_full_11">Sauté diced onion, carrot, and celery in a pot with oil until soft. Add chicken stock, chicken pieces, and bay leaf. Bring to a boil, reduce heat, and simmer for 20 minutes. Add noodles or rice 10 minutes before done. Season with salt, pepper, and fresh herbs. Chicken soup is not only delicious but actually helps with colds thanks to the warm steam and nutrients.</string>
+
+    <!-- Day 12 -->
+    <string name="tip_title_12">Cream Soup Basics</string>
+    <string name="tip_short_12">Turn any vegetable into a smooth cream soup using a simple technique.</string>
+    <string name="tip_full_12">Sauté onion and garlic, add the main vegetable (broccoli, pumpkin, cauliflower), cover with stock, and cook until tender. Blend until smooth. Add cream for a velvety texture. Season with salt, pepper, and nutmeg. Serve with croutons or pumpkin seeds. This universal method works with almost any vegetable — experiment!</string>
+
+    <!-- Day 13 -->
+    <string name="tip_title_13">Salad Dressing</string>
+    <string name="tip_short_13">A homemade dressing from three ingredients beats any store-bought version.</string>
+    <string name="tip_full_13">The basic formula: three parts oil, one part acid (lemon juice or vinegar), plus seasonings. For a classic vinaigrette: mix olive oil, red wine vinegar, mustard, salt, and pepper. Whisk with a fork or shake in a sealed jar. For an Asian version: soy sauce, sesame oil, rice vinegar, ginger. Homemade dressings are tastier, cheaper, and preservative-free.</string>
+
+    <!-- Day 14 -->
+    <string name="tip_title_14">Caesar Salad</string>
+    <string name="tip_short_14">Make the iconic salad with crunchy croutons and classic dressing.</string>
+    <string name="tip_full_14">For the dressing, mix: egg yolk, anchovies (or Worcestershire sauce), garlic, mustard, lemon juice, and olive oil. Tear romaine into large pieces. For croutons: cube bread, pan-fry with oil and garlic until crispy. Toss leaves with dressing, add croutons, and generously sprinkle with Parmesan. Serve immediately while croutons are crunchy.</string>
+
+    <!-- Day 15 -->
+    <string name="tip_title_15">Minestrone</string>
+    <string name="tip_short_15">Italian vegetable soup where you can add whatever\'s in your fridge.</string>
+    <string name="tip_full_15">Sauté onion, carrot, celery, and garlic. Add diced zucchini, green beans, potatoes. Pour in tomatoes and stock. Cook for 20 minutes. Add small pasta or canned beans. Season with basil, oregano, salt, and pepper. Serve with Parmesan and bread. Minestrone is a builder\'s soup: use any seasonal vegetables you like.</string>
+
+    <!-- Day 16 -->
+    <string name="tip_title_16">Perfect Steak</string>
+    <string name="tip_short_16">Cook steak like a pro: correct temperature and resting time.</string>
+    <string name="tip_full_16">Take the meat out of the fridge 30 minutes before cooking. Pat dry with a paper towel and season generously with salt. Heat the pan until smoking, add oil. Place the steak and don\'t touch it for 3–4 minutes. Flip, add butter, garlic, and thyme, baste with melted butter. For medium-rare: internal temperature 55°C. Always let the steak rest 5 minutes before serving.</string>
+
+    <!-- Day 17 -->
+    <string name="tip_title_17">Roast Chicken</string>
+    <string name="tip_short_17">A whole roast chicken is the signature dish of a home cook.</string>
+    <string name="tip_full_17">Rinse and dry the chicken. Rub with salt, pepper, and seasonings inside and out. Stuff with lemon, garlic, and thyme. Tie the legs with kitchen twine. Place on a baking tray with vegetables (potatoes, carrots). Roast at 200°C for about 1 hour 20 minutes (until internal temperature reaches 75°C in the thigh). Rest for 15 minutes. The juices at the bottom of the tray make a great gravy base.</string>
+
+    <!-- Day 18 -->
+    <string name="tip_title_18">Pan-Seared Fish</string>
+    <string name="tip_short_18">Crispy skin and tender flesh — the secret to perfect pan-fried fish.</string>
+    <string name="tip_full_18">Choose skin-on fillets (salmon, sea bass). Pat completely dry — this is critical for crispy skin. Season with salt and pepper. Heat the pan over medium-high heat, add oil. Place the fish skin-side down and press with a spatula for the first 30 seconds. Cook for 4 minutes without touching. Flip for 1–2 minutes. Fish is done when it flakes easily. Serve with lemon.</string>
+
+    <!-- Day 19 -->
+    <string name="tip_title_19">Pasta Al Dente</string>
+    <string name="tip_short_19">Properly cooked pasta is the foundation of Italian cuisine.</string>
+    <string name="tip_full_19">Use a large pot with plenty of water: 1 liter per 100g of pasta. The water must be at a rolling boil. Salt generously — the water should taste "like the sea." Cook 1–2 minutes less than the package says. Save a cup of pasta water. Transfer pasta to the sauce and finish cooking together, adding pasta water for binding. Never rinse pasta — the starch helps the sauce cling.</string>
+
+    <!-- Day 20 -->
+    <string name="tip_title_20">Stir-Fry Basics</string>
+    <string name="tip_short_20">Quick high-heat cooking preserves the texture and vibrant colors of vegetables.</string>
+    <string name="tip_full_20">Prepare all ingredients ahead — the cooking process is very fast. Cut vegetables and meat into equal pieces for even cooking. Heat the wok until lightly smoking. Cook in batches, don\'t overcrowd. First meat, then hard vegetables, then soft ones. Add sauce at the end. Constantly stir and toss the contents. The entire process takes 5–7 minutes.</string>
+
+    <!-- Day 21 -->
+    <string name="tip_title_21">Basic Bread</string>
+    <string name="tip_short_21">Bake your first bread from just four simple ingredients.</string>
+    <string name="tip_full_21">Mix 500g flour, 7g dry yeast, 10g salt, and 350ml warm water. Knead the dough for 10 minutes until smooth. Cover and let rise for 1 hour. Punch down, shape into a loaf, place in a tin. Let rise another 40 minutes. Bake at 220°C for 30 minutes. For a crispy crust, place a bowl of water on the bottom of the oven. Bread is done when tapping the bottom produces a hollow sound.</string>
+
+    <!-- Day 22 -->
+    <string name="tip_title_22">Chocolate Chip Cookies</string>
+    <string name="tip_short_22">Crispy outside, soft inside — classic American cookies.</string>
+    <string name="tip_full_22">Cream 120g soft butter with 80g sugar and 80g brown sugar. Add an egg and vanilla. Separately mix 200g flour, baking soda, and salt. Combine dry and wet ingredients, add chocolate chips. Chill the dough for 30 minutes. Form balls, place on a baking sheet with spacing. Bake at 180°C for 10–12 minutes until edges are golden. The center will look underdone — this is normal, cookies will firm up as they cool.</string>
+
+    <!-- Day 23 -->
+    <string name="tip_title_23">Shortcrust Pastry</string>
+    <string name="tip_short_23">The base for tarts and pies — crumbly and delicate shortcrust dough.</string>
+    <string name="tip_full_23">Cube 125g cold butter. Mix with 250g flour, rubbing with your fingers into crumbs. Add 30g powdered sugar and an egg yolk with a spoon of cold water. Quickly gather into a ball — don\'t overwork! Wrap in plastic, refrigerate for 30 minutes. Roll out on a floured surface. Fit into a tin, prick with a fork. For blind baking: cover with parchment, fill with beans, and bake 15 minutes at 180°C.</string>
+
+    <!-- Day 24 -->
+    <string name="tip_title_24">Crème Brûlée</string>
+    <string name="tip_short_24">A classic French dessert with a crackling caramel crust.</string>
+    <string name="tip_full_24">Heat 500ml cream with a vanilla pod until barely simmering. Whisk 5 egg yolks with 100g sugar until pale. Slowly pour in the hot cream, stirring. Strain, pour into ramekins. Bake in a water bath at 150°C for 40–50 minutes until slightly wobbly in the center. Refrigerate for 4 hours. Before serving, sprinkle with a thin layer of sugar and caramelize with a torch or under the broiler.</string>
+
+    <!-- Day 25 -->
+    <string name="tip_title_25">Fruit Tart</string>
+    <string name="tip_short_25">An elegant dessert of shortcrust pastry, cream, and fresh fruit.</string>
+    <string name="tip_full_25">Blind-bake the shortcrust base. Prepare pastry cream: heat 250ml milk, whisk 2 yolks with 50g sugar and 20g cornstarch. Pour in hot milk, return to heat, and cook until thick. Cool, stir in 20g butter. Fill the base with cream, arrange fresh fruits and berries on top. For shine, brush with warmed apricot jam. Store in the refrigerator.</string>
+
+    <!-- Day 26 -->
+    <string name="tip_title_26">Sauce Making</string>
+    <string name="tip_short_26">Master the five mother sauces and you can make hundreds of variations.</string>
+    <string name="tip_full_26">The five French mother sauces: béchamel (milk + roux), velouté (stock + roux), espagnole (brown stock + roux), tomato, and hollandaise. Roux is flour cooked in butter. For béchamel: melt butter, add flour, cook for a minute. Gradually pour in milk, stirring constantly. Cook 5 minutes until thickened. Season with nutmeg. From béchamel you can make Mornay sauce (with cheese), soufflé, and lasagna.</string>
+
+    <!-- Day 27 -->
+    <string name="tip_title_27">Food Plating</string>
+    <string name="tip_short_27">Beautiful plating turns home cooking into a restaurant experience.</string>
+    <string name="tip_full_27">Plating rules: use color contrast, odd numbers of elements, and leave white space on the plate. Main protein in the center, sides to the side. Apply sauce with a spoon, creating a swipe. Herbs and microgreens add color and freshness. Wipe the rim before serving. Hot dishes on warm plates, cold dishes on cold plates. Remember: we eat with our eyes first.</string>
+
+    <!-- Day 28 -->
+    <string name="tip_title_28">Caramelization</string>
+    <string name="tip_short_28">Caramelization brings out the deep sweet flavors in food.</string>
+    <string name="tip_full_28">Caramelization is heating sugars until they melt and brown. For caramelized onions: slice thin, cook over medium-low heat with butter for 30–40 minutes, stirring. Don\'t rush the process! For caramel: heat sugar with water over medium heat, don\'t stir — just swirl the pan. When the syrup turns amber, remove from heat and add cream. Be careful — caramel is extremely hot.</string>
+
+    <!-- Day 29 -->
+    <string name="tip_title_29">Fermentation Basics</string>
+    <string name="tip_short_29">Fermenting food is an ancient way to boost flavor and nutrition.</string>
+    <string name="tip_full_29">Start simple: sauerkraut. Shred cabbage, add 2% salt by weight. Mix and squeeze with your hands until juices release. Pack tightly into a jar so juice covers the cabbage. Cover loosely with a lid. Leave at room temperature for 3–7 days, releasing gas daily. Move to the fridge. Fermented foods are rich in probiotics and have a unique tangy flavor.</string>
+
+    <!-- Day 30 -->
+    <string name="tip_title_30">Meal Planning</string>
+    <string name="tip_short_30">Weekly meal planning saves time, money, and stress.</string>
+    <string name="tip_full_30">Set aside 20 minutes on the weekend to plan the week\'s menu. Make a list of dishes, considering seasonal produce and leftovers. Write a shopping list organized by category. On Sunday, prepare basic staples: wash greens, chop vegetables, cook grains. Make double portions — save half for the next day. Planning reduces food waste and helps you eat a more varied and healthier diet.</string>
+</resources>
